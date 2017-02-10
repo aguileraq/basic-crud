@@ -23,5 +23,5 @@ Esta Desarrollado en:
 Notas
 **************************
 
-- En el directorio "db" se encuentra la mase de datos.
+- En el directorio "db" se encuentra la base de datos.
 - Las rutas son absolutas en el archivo app.js, ubicado en "assets/js/"; se necesitan editar para el funcionamiento de la aplicación.
